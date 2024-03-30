@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_utama"
+            android:icon="@drawable/ic_utama"
+            android:title="Utama" />
+        <item
+            android:id="@+id/nav_sosial"
+            android:icon="@drawable/ic_sosial"
+            android:title="Sosial" />
+        <item
+            android:id="@+id/nav_berbintang"
+            android:icon="@drawable/ic_berbintang"
+            android:title="Berbintang" />
+        <item
+            android:id="@+id/nav_ditunda"
+            android:icon="@drawable/ic_ditunda"
+            android:title="Ditunda" />
+        <item
+            android:id="@+id/nav_penting"
+            android:icon="@drawable/ic_penting"
+            android:title="Penting" />
+        <item
+            android:id="@+id/nav_terkirim"
+            android:icon="@drawable/ic_terkirim"
+            android:title="Terkirim" />
+        <item
+            android:id="@+id/nav_terjadwal"
+            android:icon="@drawable/ic_terjadwal"
+            android:title="Terjadwal" />
+        <item
+            android:id="@+id/nav_draf"
+            android:icon="@drawable/ic_draft"
+            android:title="Draf" />
+        <item
+            android:id="@+id/nav_semuaemail"
+            android:icon="@drawable/ic_semuaemail"
+            android:title="Semua Email" />
+        <item
+            android:id="@+id/nav_spam"
+            android:icon="@drawable/ic_spam"
+            android:title="Spam" />
+        <item
+            android:id="@+id/nav_sampah"
+            android:icon="@drawable/ic_sampah"
+            android:title="Sampah" />
+
+    </group>
+</menu>

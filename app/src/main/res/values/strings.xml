@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Email</string>
+    <string name="info_person_icon">Gambar Profil Orang</string>
+    <string name="info_person_name">Nama Pengirim</string>
+    <string name="info_isi_pesan">Pesan</string>
+
+    <string-array name="person_icon">
+        <item>@drawable/spotify</item>
+        <item>@drawable/indodax</item>
+        <item>@drawable/miro</item>
+        <item>@drawable/kompas</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/linkedin</item>
+        <item>@drawable/cloud</item>
+        <item>@drawable/kinobi</item>
+    </string-array>
+
+    <string-array name="person_name">
+        <item>Spotify</item>
+        <item>Nina From Indodax</item>
+        <item>Miro Team</item>
+        <item>Redaksi Kompas.id</item>
+        <item>Tokopedia</item>
+        <item>LinkedIn</item>
+        <item>Indonesia Cloud Community</item>
+        <item>Kinobi Community</item>
+    </string-array>
+
+    <string-array name="isi_pesan">
+        <item>Paket datamu terkuras? Aktifkan Hemat Data</item>
+        <item>[Informasi Layanan] Deposit dan Withdrawal di Hari Libur Jumat Agung, Apa yang Perlu Anda Ketahui?</item>
+        <item>New highlights on your Sprint 4</item>
+        <item>Bahas Isu Terkini Bersama Tim Redaksi Kompas</item>
+        <item>Pesanan Selesai: “Pelindung kaki dan Sepatu seka...” dan 1 Item Lainnya</item>
+        <item>Pendaftaran perangkat baru untuk Ingat saya</item>
+        <item>Unlock Insights: Cloud Data Analytics dan ML Events with iC-Talk!</item>
+        <item>💯 Resume Completed!</item>
+
+    </string-array>
+</resources>
